@@ -30,4 +30,4 @@
   echo '<br>';
   var_dump((bool) 10.5);
   echo '<br>';
-  var_dump((bool) -10.5);
+  var_dump((bool) -100.5);
